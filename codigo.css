@@ -1,11 +1,10 @@
 :root {
-  --interactive-hover: magenta;
     --main-color: #090909;
     --title-bar: #212121;
     --bar-color: #181818;
     --bar-border-color: #282828;
     --bar-size: 90px;
-    --accent-color: #1db954;
+    --accent-color: magenta;
     --accent-hover: #1ed760;
     --accent-rgb: 29,185,84;
     --accent-text-color: #fff;
