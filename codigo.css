@@ -1671,8 +1671,8 @@
   /* HOME TAB -> TITLE BAR */
   .tabBar-ZmDY9v .item-PXvHYJ {
     margin: 0;
-    background-color: transparent !important;
-    color: #777 !important; }
+    background-color: blue !important;
+    color: red !important; }
     .tabBar-ZmDY9v .item-PXvHYJ:hover {
       color: var(--interactive-hover) !important; }
     .tabBar-ZmDY9v .item-PXvHYJ.selected-3s45Ha {
