@@ -329,7 +329,7 @@
     font-weight: 600; }
   
   /* CHANNELS LIST -> PANELS */
-  .panels-j1Uci_ {
+  /* .panels-j1Uci_ {
     background-color: var(--sidebar-panel); }
     .panels-j1Uci_ .container-3baos1 {
       height: var(--bar-size);
@@ -341,7 +341,7 @@
     .panels-j1Uci_ .container-1giJp5 {
       border-bottom: none; }
       .panels-j1Uci_ .container-1giJp5 .actionButtons-14eAc_ .button-38aScr {
-        padding: 0; }
+        padding: 0; } */
   
   /* CHANNELS LIST -> NOISE SUPPRESSION */
   .noiseCancellationPopout-iRK2A0 {
@@ -2544,7 +2544,7 @@
     background-color: var(--card-color);
     border-radius: var(--card-radius); }
   
-  /* .item-26Dhrx {
+   .item-26Dhrx {
     margin: 0;
     background-color: transparent;
     border-radius: 0;
@@ -2563,7 +2563,7 @@
     .item-26Dhrx .radioIconForeground-XwlXQN {
       color: var(--accent-color); }
     .item-26Dhrx .radioBar-bMNUI- {
-      border-radius: 0; } */
+      border-radius: 0; } 
   
   .privacyItemContainer-3nWJyN:hover:not(.privacyItemDisabled-2FP73k) {
     background-color: var(--menu-hover-color); }
