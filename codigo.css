@@ -1669,14 +1669,14 @@
         height: 100%; }
   
   /* HOME TAB -> TITLE BAR */
-  .tabBar-ZmDY9v .item-PXvHYJ {
+  /* .tabBar-ZmDY9v .item-PXvHYJ {
     margin: 0;
-    background-color: blue !important;
-    color: red !important; }
+    background-color: transparent !important;
+    color: #777 !important; }
     .tabBar-ZmDY9v .item-PXvHYJ:hover {
       color: var(--interactive-hover) !important; }
     .tabBar-ZmDY9v .item-PXvHYJ.selected-3s45Ha {
-      color: var(--interactive-active) !important; }
+      color: var(--interactive-active) !important; } */
   
   /* HOME TAB -> LIST ITEMS */
   .channel-2QD9_O {
