@@ -1,2 +1,0 @@
-# spotids
-css para ds
